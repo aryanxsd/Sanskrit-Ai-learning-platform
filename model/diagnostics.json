@@ -1,0 +1,115 @@
+{
+    "diagnostics": [
+        {
+            "phoneme": "h",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "a",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "v",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "a",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "t",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "a",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "h",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "|",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "n",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "a",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "m",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "a",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "|",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "k",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        },
+        {
+            "phoneme": "i",
+            "classification": "INCORRECT",
+            "error_type": "Abnormal Substitution Error",
+            "details": {
+                "strongest_competitor": null
+            }
+        },
+        {
+            "phoneme": "m",
+            "classification": "CORRECT",
+            "error_type": null,
+            "details": {}
+        }
+    ],
+    "ground_truth_text": "bhavatah nama kim"
+}

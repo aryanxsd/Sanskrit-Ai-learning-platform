@@ -1,0 +1,16 @@
+torch==2.7.0
+torchaudio==2.7.0
+torchvision
+evaluate
+jiwer
+indic-transliteration
+jax
+transformers==4.46.1
+streamlit
+soundfile
+parler_tts
+python-Levenshtein
+huggingface
+huggingface-hub
+fpdf
+
