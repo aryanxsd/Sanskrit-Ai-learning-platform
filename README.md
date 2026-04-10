@@ -4,24 +4,24 @@ An AI-powered Sanskrit pronunciation tutor that provides real-time phoneme-level
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project is a full-stack AI application designed to help users learn Sanskrit pronunciation accurately. Unlike traditional learning apps, this system analyzes speech at the phoneme level and provides detailed feedback on pronunciation.
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🎤 Real-time audio recording from browser
-* 🧠 AI-based pronunciation analysis
-* 🔬 Phoneme-level error detection
-* 📊 Accuracy scoring using AI model
-* 📚 Level-based assignments (Beginner → Advanced)
-* 🌐 Full-stack integration (Frontend + Backend + AI)
+*  Real-time audio recording from browser
+*  AI-based pronunciation analysis
+*  Phoneme-level error detection
+*  Accuracy scoring using AI model
+*  Level-based assignments (Beginner → Advanced)
+*  Full-stack integration (Frontend + Backend + AI)
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User selects a Sanskrit sentence from the assignment page
 2. User records pronunciation using microphone
@@ -34,7 +34,7 @@ This project is a full-stack AI application designed to help users learn Sanskri
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -55,7 +55,7 @@ This project is a full-stack AI application designed to help users learn Sanskri
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 sanskrit-tutor/
@@ -76,7 +76,7 @@ sanskrit-tutor/
 
 ## ⚙️ Setup & Run Locally
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 
 ```
 git clone https://github.com/aryanxsd/Sanskrit-Ai-learning-platform.git
@@ -85,7 +85,7 @@ cd Sanskrit-Ai-learning-platform
 
 ---
 
-### 2️⃣ Backend Setup
+### 2️ Backend Setup
 
 ```
 cd model
@@ -105,7 +105,7 @@ http://localhost:8000
 
 ---
 
-### 3️⃣ Frontend Setup
+### 3️ Frontend Setup
 
 ```
 cd Frontend
@@ -121,7 +121,7 @@ http://localhost:5173
 
 ---
 
-## 📡 API Endpoint
+##  API Endpoint
 
 ### POST /analyze
 
@@ -143,7 +143,7 @@ http://localhost:5173
 
 ---
 
-## 🚫 Important Notes
+##  Important Notes
 
 * Model files are not included in this repository due to size
 * Place your trained model inside:
@@ -154,31 +154,31 @@ model/xlsr-53-saved-model/
 
 ---
 
-## 🎯 Vision
+##  Vision
 
 To build a Duolingo-like AI tutor specifically for Sanskrit, powered by real speech intelligence and phoneme-level feedback.
 
 ---
 
-## 💡 Key Innovation
+##  Key Innovation
 
 > This system uses phoneme-level alignment and Goodness of Pronunciation (GOP) scoring instead of basic speech-to-text comparison.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Priyanshu Aryan
 Founder & CEO — Valaxia LLP
 
 ---
 
-## ⭐ Future Improvements
+##  Future Improvements
 
-* 🧠 AI conversation mode
-* 📈 Progress tracking
-* 🏆 Gamification
-* 🌍 Live deployment
+*  AI conversation mode
+*  Progress tracking
+*  Gamification
+*  Live deployment
 
 ---
 
